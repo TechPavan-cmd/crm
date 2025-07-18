@@ -9,7 +9,7 @@
 //     stages {
 //         stage('Clone Repo') {
 //             steps {
-//                 git branch: 'main', url: 'https://github.com/TechPavan-cmd/CRM_App.git'
+//                 git branch: 'main', url: 'https://github.com/TechPavan-cmd/crm.git'
 //             }
 //         }
 
